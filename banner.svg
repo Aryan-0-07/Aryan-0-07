@@ -39,7 +39,7 @@
     <path d="M326 123Q340 131 354 123" stroke="#26215C" stroke-width="3" fill="none" stroke-linecap="round"/>
   </g>
 
-  <text x="600" y="190" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="84" font-weight="800" letter-spacing="8" fill="#ffffff">HELLO WORLD</text>
+  <text x="600" y="190" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="84" font-weight="800" letter-spacing="8" fill="#ffffff">HELLO ENGINEERS</text>
   <text x="600" y="237" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="21" letter-spacing="5" fill="#f5d0fe">WELCOME TO MY PROFILE</text>
 
   <g fill="none" stroke="#f5d0fe" stroke-opacity="0.6" stroke-width="1.5">
