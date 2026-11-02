@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Hello World - Welcome to my profile">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2a0a4a"/>
+      <stop offset="0.55" stop-color="#4b1170"/>
+      <stop offset="1" stop-color="#1c0836"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.1" r="0.7">
+      <stop offset="0" stop-color="#d946ef" stop-opacity="0.75"/>
+      <stop offset="0.5" stop-color="#9333ea" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#9333ea" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f0abfc"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#glow)"/>
+
+  <g fill="#f0abfc" opacity="0.35">
+    <circle cx="130" cy="70" r="4"/><circle cx="190" cy="115" r="3"/><circle cx="90" cy="130" r="2.5"/>
+    <circle cx="1070" cy="70" r="4"/><circle cx="1010" cy="115" r="3"/><circle cx="1110" cy="130" r="2.5"/>
+  </g>
+
+  <circle cx="600" cy="75" r="46" fill="#1e1b2e" stroke="url(#ring)" stroke-width="4"/>
+  <text x="600" y="89" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="38" font-weight="700" fill="#ffffff">AR</text>
+
+  <text x="600" y="190" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="84" font-weight="800" letter-spacing="8" fill="#ffffff">HELLO WORLD</text>
+  <text x="600" y="237" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="21" letter-spacing="5" fill="#f5d0fe">WELCOME TO MY PROFILE</text>
+
+  <g fill="none" stroke="#f5d0fe" stroke-opacity="0.6" stroke-width="1.5">
+    <path d="M110 280 L140 240 L190 240 L160 280 Z"/>
+    <path d="M170 280 L200 240 L250 240 L220 280 Z"/>
+    <path d="M1090 280 L1060 240 L1010 240 L1040 280 Z"/>
+    <path d="M1030 280 L1000 240 L950 240 L980 280 Z"/>
+  </g>
+</svg>
