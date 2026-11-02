@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech student in **Computer Science and Engineering (Specialization in Artificial Intelligence Machine Learning)**
+- 🎓 B.Tech student in **Computer Science and Engineering (Specialization in Artificial Intelligence and Machine Learning)**
 - 🏫 **Vellore Institute of Technology, Bhopal**
 - 🧠 Interested in building intelligent systems with Python, data and machine learning
 - 🏆 Hackathon participant who enjoys turning ideas into working prototypes
