@@ -16,7 +16,6 @@
 
 - 🎓 2nd year B.Tech student in **Computer Science and Engineering (Specialization in Machine Learning)** at **Vellore Institute of Technology, Bhopal**
 - 🧠 Interested in building intelligent systems with Python, data and machine learning
-- 🌱 Currently learning SQL, Scikit-learn, Deep Learning and TensorFlow
 - 🏆 Hackathon participant who enjoys turning ideas into working prototypes
 
 ### 📫 Connect with me
