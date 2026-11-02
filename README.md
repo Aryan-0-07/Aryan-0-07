@@ -85,8 +85,8 @@ A maze chase game with an opponent that actually learns. Instead of following fi
 
 ## 🏆 Experience
 
-- 🥇 **NeuroNex Hackathon**: participant
-- 🏥 **Health Hackathon**: participant
+- 🥇 **NeuroNex Hackathon**: Participant
+- 🏥 **Health Hackathon**: Participant
 
 ---
 
