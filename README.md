@@ -5,7 +5,7 @@
 # Hey 👋 I'm Aryan Raj
 
 <a href="https://github.com/Aryan-0-07">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&height=50&lines=Artificial+Intelligence;Machine+Learning;Student" alt="Typing animation: Artificial Intelligence, Machine Learning, Student" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=750&height=50&lines=Artificial+Intelligence+%7C+Machine+Learning+%7C+Student" alt="Typing animation: Artificial Intelligence, Machine Learning, Student" />
 </a>
 
 </div>
