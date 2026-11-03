@@ -95,7 +95,7 @@ A maze chase game with an opponent that actually learns. Instead of following fi
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-0-07&layout=donut&hide_border=true&bg_color=0d1117&title_color=C084FC&text_color=E9D5FF&hide_title=false&langs_count=5" alt="Top languages" />
+<img height="180" src="languages.svg" alt="Top languages" />
 <img height="180" src="https://streak-stats.demolab.com?user=Aryan-0-07&theme=dark&hide_border=true&background=0D1117&ring=C084FC&fire=F0ABFC&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=C084FC&sideLabels=AFA9EC&dates=9CA3AF" alt="GitHub streak" />
 
 </div>
